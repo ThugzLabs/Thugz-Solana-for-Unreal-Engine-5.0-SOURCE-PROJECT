@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThugzBCPlugin-7406.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\ThugzBCPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\ThugzBCPlugin.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\ThugzBCPluginGameModeBase.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\ThugzBCPlugin.init.gen.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\ThugzBCPluginGameModeBase.gen.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBCPlugin\UnrealEditor-ThugzBCPlugin-7406.lib"

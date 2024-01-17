@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThugzBCPlugin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThugzBCPlugin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThugzBCPluginEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBC">
+      <UniqueIdentifier>{3DBD8B7D-A3AD-33F8-BA88-877136B7332E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBC\Source">
+      <UniqueIdentifier>{78821ED9-B3E4-345C-A872-B2A90BBF5DCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBC\Source\ThugzBC">
+      <UniqueIdentifier>{483AF4FF-22E3-332F-A44F-3E55F6FDE29F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ThugzBC\Source\ThugzBC\ThugzBC.Build.cs">
+      <Filter>Plugins\ThugzBC\Source\ThugzBC</Filter>
+    </None>
+    <Filter Include="Plugins\ThugzBC\Source\ThugzBC\Private">
+      <UniqueIdentifier>{82340E59-06A0-3B8C-A3E9-E0BDEDBF3E7F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ThugzBC\Source\ThugzBC\Private\ThugzBC.cpp">
+      <Filter>Plugins\ThugzBC\Source\ThugzBC\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ThugzBC\Source\ThugzBC\Private\ThugzBCBPLibrary.cpp">
+      <Filter>Plugins\ThugzBC\Source\ThugzBC\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ThugzBC\Source\ThugzBC\Public">
+      <UniqueIdentifier>{800A17CB-EDAE-3595-B0A1-C6E03B920B26}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ThugzBC\Source\ThugzBC\Public\ThugzBC.h">
+      <Filter>Plugins\ThugzBC\Source\ThugzBC\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ThugzBC\Source\ThugzBC\Public\ThugzBCBPLibrary.h">
+      <Filter>Plugins\ThugzBC\Source\ThugzBC\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\ThugzBC\ThugzBC.uplugin">
+      <Filter>Plugins\ThugzBC</Filter>
+    </None>
+    <Filter Include="Plugins\ThugzBC\Resources">
+      <UniqueIdentifier>{46C8BB92-6065-3113-BE91-FF7C1EB040E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ThugzBC\Resources\Icon128.png">
+      <Filter>Plugins\ThugzBC\Resources</Filter>
+    </None>
+    <Filter Include="Source\ThugzBCPlugin">
+      <UniqueIdentifier>{E49BE61B-10E8-37FE-A555-B2679BBEAD65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThugzBCPlugin\ThugzBCPlugin.Build.cs">
+      <Filter>Source\ThugzBCPlugin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThugzBCPlugin\ThugzBCPlugin.cpp">
+      <Filter>Source\ThugzBCPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThugzBCPlugin\ThugzBCPlugin.h">
+      <Filter>Source\ThugzBCPlugin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThugzBCPlugin\ThugzBCPluginGameModeBase.cpp">
+      <Filter>Source\ThugzBCPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThugzBCPlugin\ThugzBCPluginGameModeBase.h">
+      <Filter>Source\ThugzBCPlugin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Source\\ThugzBCPlugin\\ThugzBCPlugin.Build.cs",
+		"D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Plugins\\ThugzBC\\Source\\ThugzBC\\ThugzBC.Build.cs",
+		"D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Source\\ThugzBCPlugin.Target.cs",
+		"D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Source\\ThugzBCPluginEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\thugzbcplugin\\thugzbcplugingamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\thugzbcplugineditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\unrealeditor\\development\\thugzbcplugin\\definitions.thugzbcplugin.h",
+            "d:\\unreal engine\\projects\\thugzbcplugin\\source\\thugzbcplugin\\thugzbcplugingamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\thugzbcplugin\\thugzbcplugingamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

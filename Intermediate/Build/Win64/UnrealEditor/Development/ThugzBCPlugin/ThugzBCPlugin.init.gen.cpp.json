@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\thugzbcplugin\\thugzbcplugin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\thugzbcplugineditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine\\projects\\thugzbcplugin\\intermediate\\build\\win64\\unrealeditor\\development\\thugzbcplugin\\definitions.thugzbcplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

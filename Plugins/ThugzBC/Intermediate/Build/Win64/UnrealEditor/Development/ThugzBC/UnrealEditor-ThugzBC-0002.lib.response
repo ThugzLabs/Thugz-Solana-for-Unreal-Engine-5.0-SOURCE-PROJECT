@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThugzBC-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Intermediate\Build\Win64\ThugzBCPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Plugins\ThugzBC\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBC\Module.ThugzBC.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Plugins\ThugzBC\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBC\Module.ThugzBC.gen.cpp.obj"
+"D:\Unreal Engine\Projects\ThugzBCPlugin\Plugins\ThugzBC\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBC\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Projects\ThugzBCPlugin\Plugins\ThugzBC\Intermediate\Build\Win64\UnrealEditor\Development\ThugzBC\UnrealEditor-ThugzBC-0002.lib"
