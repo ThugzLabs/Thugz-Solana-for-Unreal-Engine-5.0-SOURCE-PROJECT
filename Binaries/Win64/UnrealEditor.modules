@@ -1,7 +1,7 @@
 {
-	"BuildId": "27405482",
+	"BuildId": "19505902",
 	"Modules": 
 	{
-		"ThugzBCPlugin53": "UnrealEditor-ThugzBCPlugin53.dll"
+		"ThugzBCPlugin": "UnrealEditor-ThugzBCPlugin.dll"
 	}
 }
