@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThugzBCPlugin53.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThugzBCPlugin53.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThugzBCPlugin53Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBCfor53">
+      <UniqueIdentifier>{56647607-53DB-3974-9468-B2481781C279}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBCfor53\Source">
+      <UniqueIdentifier>{A27019C1-F5FF-3BF2-826F-44385771FBD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ThugzBCfor53\Source\ThugzBCfor53">
+      <UniqueIdentifier>{37434E88-C71A-337C-B4DA-84F440C5B4EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ThugzBCfor53\Source\ThugzBCfor53\ThugzBCfor53.Build.cs">
+      <Filter>Plugins\ThugzBCfor53\Source\ThugzBCfor53</Filter>
+    </None>
+    <Filter Include="Plugins\ThugzBCfor53\Source\ThugzBCfor53\Private">
+      <UniqueIdentifier>{B5A88651-E056-3278-BA8C-D883D92839BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ThugzBCfor53\Source\ThugzBCfor53\Private\ThugzBCfor53.cpp">
+      <Filter>Plugins\ThugzBCfor53\Source\ThugzBCfor53\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ThugzBCfor53\Source\ThugzBCfor53\Private\ThugzBCfor53BPLibrary.cpp">
+      <Filter>Plugins\ThugzBCfor53\Source\ThugzBCfor53\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ThugzBCfor53\Source\ThugzBCfor53\Public">
+      <UniqueIdentifier>{A973B9ED-71F2-305A-A8F2-A4876716416A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ThugzBCfor53\Source\ThugzBCfor53\Public\ThugzBCfor53.h">
+      <Filter>Plugins\ThugzBCfor53\Source\ThugzBCfor53\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\ThugzBCfor53\Source\ThugzBCfor53\Public\ThugzBCfor53BPLibrary.h">
+      <Filter>Plugins\ThugzBCfor53\Source\ThugzBCfor53\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\ThugzBCfor53\ThugzBCfor53.uplugin">
+      <Filter>Plugins\ThugzBCfor53</Filter>
+    </None>
+    <Filter Include="Plugins\ThugzBCfor53\Resources">
+      <UniqueIdentifier>{AE64DA02-1ACF-32C7-8F30-9610B749B7D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ThugzBCfor53\Resources\Icon128.png">
+      <Filter>Plugins\ThugzBCfor53\Resources</Filter>
+    </None>
+    <Filter Include="Source\ThugzBCPlugin53">
+      <UniqueIdentifier>{6A58FE6F-568D-359F-B7A0-9D3BB8621479}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThugzBCPlugin53\ThugzBCPlugin53.Build.cs">
+      <Filter>Source\ThugzBCPlugin53</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThugzBCPlugin53\ThugzBCPlugin53.cpp">
+      <Filter>Source\ThugzBCPlugin53</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThugzBCPlugin53\ThugzBCPlugin53.h">
+      <Filter>Source\ThugzBCPlugin53</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
