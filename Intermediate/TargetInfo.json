@@ -1,13 +1,13 @@
 {
 	"Targets": [
 		{
-			"Name": "ThugzBCPlugin",
-			"Path": "D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Source\\ThugzBCPlugin.Target.cs",
+			"Name": "ThugzBCPlugin53",
+			"Path": "..\\Source\\ThugzBCPlugin53.Target.cs",
 			"Type": "Game"
 		},
 		{
-			"Name": "ThugzBCPluginEditor",
-			"Path": "D:\\Unreal Engine\\Projects\\ThugzBCPlugin\\Source\\ThugzBCPluginEditor.Target.cs",
+			"Name": "ThugzBCPlugin53Editor",
+			"Path": "..\\Source\\ThugzBCPlugin53Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
