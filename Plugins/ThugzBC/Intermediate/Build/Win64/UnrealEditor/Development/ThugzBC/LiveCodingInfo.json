@@ -1,13 +1,5 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.ThugzBC.cpp.obj": [
-			"ThugzBC.cpp.obj",
-			"ThugzBCBPLibrary.cpp.obj"
-		],
-		"Module.ThugzBC.gen.cpp.obj": [
-			"ThugzBC.init.gen.cpp.obj",
-			"ThugzBCBPLibrary.gen.cpp.obj"
-		]
 	}
 }
